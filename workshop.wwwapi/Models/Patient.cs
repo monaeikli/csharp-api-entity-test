@@ -4,7 +4,7 @@ using System.Data;
 
 namespace workshop.wwwapi.Models
 {
-    //TODO: decorate class/columns accordingly    
+    //TODO: decorate class/columns according   
     [Table("patients")]
     public class Patient
     {
